@@ -1,15 +1,25 @@
 # Toque No Brasil
-Site de connexiones entre bandas, productores e festivais no brazil e no mundo
+Projeto de conexão entre bandas, produtores e festivais no Brasil e no Mundo
 
 ![GitHub](https://img.shields.io/github/license/ForaDoEixo/toquenobrasil.svg)
-[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/joinchat/)
+[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/ToqueNoBrasil/)
 
-# Screenshot
+### Status do Projeto
+
+O código contido nesse repositório **ESTÁ DESCONTINUADO** pois diz respeito à primeira versão do TNB, implementada usando uma versão muito antiga do WordPress. 
+
+Conheça os próximos passos do projeto nesta issue: https://github.com/ForaDoEixo/toquenobrasil/issues/6
+
+Ou vá direto ao repositório do Novo TNB: https://github.com/ForaDoEixo/TNB2.0/issues/22
+
+
+## Screenshots
 ![Screenshot](./screenshots/0.png)
 ![Screenshot](./screenshots/1.png)
 ![Screenshot](./screenshots/2.png)
 
-O Toque no Brasil (TNB) é uma plataforma de agenciamento online que segue a
+## TNB.art.br
+O Toque no Brasil (http://TNB.art.br) é uma plataforma de agenciamento online que segue a
 lógica de rede social, para integrar, fortalecer e dinamizar a relação entre
 artistas, produtores e público. No TNB, os artistas e produtores criam seus
 respectivos perfis, onde podem carregar todo tipo de mídia (músicas, fotos,
@@ -20,7 +30,7 @@ shows em editais abertos dentro da plataforma, o que transforma o site numa
 incrível ferramenta para curadoria, facilitando o contato direto e sem
 intermediários entre produtores e artistas.
 
-
+### Histórico
 O site www.tnb.art.br foi lançado em 2010 e possui mais 30 mil artistas e 3 mil
 produtores cadastrados, que foram acessadas por mais de 2,5 milhões de pessoas
 diretamente na plataforma.
