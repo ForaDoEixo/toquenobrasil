@@ -10,7 +10,7 @@ O código contido nesse repositório **ESTÁ DESCONTINUADO** pois diz respeito �
 
 Conheça os próximos passos do projeto nesta issue: https://github.com/ForaDoEixo/toquenobrasil/issues/6
 
-Ou vá direto ao repositório do Novo TNB: https://github.com/ForaDoEixo/TNB2.0/issues/22
+Ou vá direto ao repositório do Novo TNB: https://github.com/ForaDoEixo/TNB2.0
 
 
 ## Screenshots
